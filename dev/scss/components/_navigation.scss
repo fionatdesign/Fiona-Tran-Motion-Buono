@@ -1,9 +1,12 @@
 /* =============
     Navigation
 ============= */
+
+header {
+    background-color: $yellow;
+}
 nav {
     height: 100%;
-
     ul {
         height: 100%;
         display: flex;
