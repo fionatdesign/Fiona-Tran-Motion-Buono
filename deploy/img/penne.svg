@@ -1,35 +1,3 @@
 <svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="150" cy="150" r="150" fill="#759312"/>
-<g clip-path="url(#clip0_26_5)">
-<path d="M84.1598 103.162L210.4 83.0646C215.402 81.036 223.844 76.809 231.308 68.3429C235.442 63.6391 238.115 58.9586 239.829 55.2677C236.906 52.2453 222.477 37.848 203.278 38.3237C161.172 44.9108 119.089 51.4942 76.9792 58.0586L84.1598 103.162Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M76.9792 58.0586C97.4788 54.795 113.453 71.5969 116.468 74.9069C114.63 78.9895 104.663 99.9214 84.1634 103.185C63.6638 106.449 47.6855 89.624 44.6706 86.314C46.5086 82.2314 56.476 61.2995 76.9756 58.0359L76.9792 58.0586Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M227.448 72.2824L131.775 87.5137" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M236.035 62.1032L137.573 77.7784" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M237.569 53.0466L143.37 68.0432" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-</g>
-<g clip-path="url(#clip1_26_5)">
-<path d="M92.1388 163.625L219.333 176.362C224.687 175.675 233.927 173.738 243.302 167.454C248.498 163.959 252.275 160.114 254.874 156.982C252.818 153.314 242.534 135.715 223.847 131.283C181.453 126.922 139.081 122.564 96.6893 118.181L92.1388 163.625Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M96.6893 118.181C117.344 120.249 128.509 140.567 130.581 144.536C127.763 148.016 112.791 165.716 92.1365 163.648C71.482 161.58 60.3187 141.239 58.2469 137.27C61.0646 133.791 76.037 116.09 96.6915 118.158L96.6893 118.181Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M238.565 170.28L142.17 160.627" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M249.463 162.625L150.257 152.691" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M253.254 154.258L158.344 144.755" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-</g>
-<g clip-path="url(#clip2_26_5)">
-<path d="M210.201 236.047L83.6728 254.25C78.2948 253.794 68.9799 252.258 59.3425 246.383C54.0006 243.115 50.0612 239.436 47.3305 236.419C49.2265 232.666 58.7429 214.641 77.2216 209.407C119.389 203.225 161.533 197.046 203.697 190.841L210.201 236.047Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M203.697 190.841C183.151 193.797 172.871 214.577 170.972 218.632C173.937 221.987 189.658 239.026 210.204 236.07C230.75 233.114 241.027 212.312 242.926 208.257C239.961 204.902 224.24 187.863 203.694 190.818L203.697 190.841Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M64.1966 249.002L160.087 235.207" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M52.9797 241.824L151.665 227.626" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-<path d="M48.8313 233.628L143.244 220.046" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
-</g>
-<defs>
-<clipPath id="clip0_26_5">
-<rect width="50.2642" height="203.146" fill="white" transform="translate(45.9026 111.578) rotate(-99.0457)"/>
-</clipPath>
-<clipPath id="clip1_26_5">
-<rect width="50.2642" height="203.146" fill="white" transform="translate(53 162.014) rotate(-84.2819)"/>
-</clipPath>
-<clipPath id="clip2_26_5">
-<rect width="50.2642" height="203.146" fill="white" transform="matrix(-0.142397 -0.98981 -0.98981 0.142397 249.234 232.752)"/>
-</clipPath>
-</defs>
 </svg>

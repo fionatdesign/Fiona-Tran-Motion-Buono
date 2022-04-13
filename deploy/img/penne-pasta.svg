@@ -1,0 +1,34 @@
+<svg width="223" height="232" viewBox="0 0 223 232" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_46_2)">
+<path d="M46.1598 73.1623L172.4 53.0646C177.402 51.036 185.844 46.8089 193.308 38.3429C197.442 33.6391 200.115 28.9586 201.829 25.2677C198.906 22.2453 184.477 7.84798 165.278 8.32369C123.172 14.9107 81.0886 21.4942 38.9792 28.0586L46.1598 73.1623Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M38.9792 28.0586C59.4789 24.795 75.4535 41.5969 78.4684 44.9069C76.6304 48.9895 66.6631 69.9214 46.1634 73.185C25.6638 76.4486 9.68553 59.624 6.67068 56.314C8.50862 52.2314 18.476 31.2995 38.9756 28.0359L38.9792 28.0586Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M189.448 42.2824L93.7751 57.5137" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M198.034 32.1032L99.5727 47.7784" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M199.569 23.0466L105.37 38.0432" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+</g>
+<g clip-path="url(#clip1_46_2)">
+<path d="M54.1388 133.625L181.333 146.362C186.686 145.675 195.927 143.738 205.302 137.454C210.498 133.959 214.275 130.114 216.874 126.982C214.818 123.314 204.534 105.715 185.847 101.283C143.453 96.9223 101.081 92.5642 58.6892 88.1809L54.1388 133.625Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M58.6892 88.1809C79.3437 90.2491 90.5093 110.567 92.5811 114.536C89.7634 118.016 74.791 135.716 54.1365 133.648C33.482 131.58 22.3187 111.239 20.2469 107.27C23.0645 103.791 38.037 86.0899 58.6915 88.158L58.6892 88.1809Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M200.565 140.28L104.17 130.627" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M211.463 132.625L112.257 122.691" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M215.254 124.258L120.344 114.755" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+</g>
+<g clip-path="url(#clip2_46_2)">
+<path d="M172.201 206.048L45.6728 224.25C40.2948 223.794 30.9799 222.258 21.3425 216.383C16.0006 213.115 12.0612 209.436 9.33048 206.419C11.2265 202.666 20.7429 184.641 39.2216 179.407C81.3888 173.225 123.533 167.046 165.697 160.841L172.201 206.048Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M165.697 160.841C145.151 163.797 134.871 184.577 132.972 188.632C135.937 191.987 151.658 209.026 172.204 206.07C192.75 203.114 203.027 182.312 204.926 178.257C201.961 174.902 186.24 157.863 165.694 160.818L165.697 160.841Z" fill="#E2C192" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M26.1966 219.002L122.087 205.207" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M14.9797 211.824L113.665 197.626" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M10.8312 203.628L105.244 190.046" stroke="#623B02" stroke-width="2" stroke-miterlimit="10"/>
+</g>
+<defs>
+<clipPath id="clip0_46_2">
+<rect width="50.2642" height="203.146" fill="white" transform="translate(7.90259 81.5781) rotate(-99.0457)"/>
+</clipPath>
+<clipPath id="clip1_46_2">
+<rect width="50.2642" height="203.146" fill="white" transform="translate(15 132.014) rotate(-84.2819)"/>
+</clipPath>
+<clipPath id="clip2_46_2">
+<rect width="50.2642" height="203.146" fill="white" transform="matrix(-0.142397 -0.98981 -0.98981 0.142397 211.234 202.752)"/>
+</clipPath>
+</defs>
+</svg>

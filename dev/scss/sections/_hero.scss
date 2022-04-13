@@ -1,9 +1,60 @@
 #herobody {
     background-color: $yellow;
+    
+
+    #aldente {
+        position: absolute;
+        background-image: url("../img/aldente.svg");
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+        top: 130px;
+        left: 760px;
+    }
+
+    #penne {
+        position: absolute;
+        background-image: url("../img/penne.svg");
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+        top: 400px;
+        left: 1100px;
+    }
+
+    #penne-pasta {
+        position: absolute;
+        background-image: url("../img/penne-pasta.svg");
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+        top: 430px;
+        left: 1135px;
+    }
+
+    #bowtie {
+        position: absolute;
+        background-image: url("../img/bowtie.svg");
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+        top: 600px;
+        left: 540px;
+    }
+
+    #bowtie-pasta {
+        position: absolute;
+        background-image: url("../img/bowtie-pasta.svg");
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 100%;
+        top: 680px;
+        left: 580px;
+    }
 }
 #hero {
     background-color: $yellow;
-    height: 120vh;
+    height: 130vh;
     width: 100%;
 
     #hero-content {
