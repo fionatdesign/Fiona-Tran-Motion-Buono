@@ -470,23 +470,27 @@ header > div .buono {
 
 #hero {
   background-color: #F6D574;
-  height: 90vh;
+  height: 120vh;
   width: 100%;
 }
 #hero #hero-content {
   font-family: "roc-grotesk", sans-serif;
   font-weight: 700;
-  font-size: 2.25rem;
-  padding: 50px;
+  font-size: 3rem;
+  color: #fff;
+  position: absolute;
+  top: 170px;
+  left: 90px;
 }
 
 .pastahero-img {
+  display: block;
+  position: absolute;
   background-image: url("../img/pasta-hero.png");
-  background-position: left top;
   background-repeat: no-repeat;
   background-size: contain;
   height: 90vh;
   width: 100%;
-  position: absolute;
-  background-position-x: 30px;
+  bottom: -75px;
+  left: 30px;
 }
