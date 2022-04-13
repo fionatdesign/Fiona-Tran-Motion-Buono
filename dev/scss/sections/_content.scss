@@ -1,0 +1,28 @@
+#content {
+    background-color: $red;
+    display: grid;
+    grid-template-columns: 60% auto;
+    padding: 30px;
+    align-items: center;
+
+    p {
+        font-family: 'roc-grotesk', sans-serif;
+        font-weight: 700;
+        font-size: rem-calc(40);
+        line-height: 1.5;
+        color: $white;
+        padding-right: 100px;
+    }
+
+    .content1{
+        padding-bottom: 65px;
+    }
+
+    #pasta-content {
+        background-image: url("../img/pasta-content.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 542px;
+        width: 542px;
+    }
+}

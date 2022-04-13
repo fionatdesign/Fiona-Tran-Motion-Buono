@@ -539,3 +539,29 @@ header > div .buono {
   bottom: -75px;
   left: 30px;
 }
+
+#content {
+  background-color: #C94922;
+  display: grid;
+  grid-template-columns: 60% auto;
+  padding: 30px;
+  align-items: center;
+}
+#content p {
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: #fff;
+  padding-right: 100px;
+}
+#content .content1 {
+  padding-bottom: 65px;
+}
+#content #pasta-content {
+  background-image: url("../img/pasta-content.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 542px;
+  width: 542px;
+}
