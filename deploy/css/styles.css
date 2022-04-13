@@ -515,7 +515,7 @@ header > div .buono {
 
 #hero {
   background-color: #F6D574;
-  height: 130vh;
+  height: 100vh;
   width: 100%;
 }
 #hero #hero-content {
@@ -544,7 +544,7 @@ header > div .buono {
   background-color: #C94922;
   display: grid;
   grid-template-columns: 60% auto;
-  padding: 30px;
+  padding: 100px;
   align-items: center;
 }
 #content p {
