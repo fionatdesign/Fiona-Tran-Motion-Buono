@@ -547,6 +547,11 @@ header > div .buono {
   padding: 100px;
   align-items: center;
 }
+@media (min-width: 1024px) {
+  #content {
+    grid-template-columns: 40% auto;
+  }
+}
 #content p {
   font-family: "roc-grotesk", sans-serif;
   font-weight: 700;

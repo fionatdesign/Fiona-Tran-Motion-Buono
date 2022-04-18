@@ -5,6 +5,10 @@
     padding: 100px;
     align-items: center;
 
+    @include lg {
+        grid-template-columns: 40% auto;
+    }
+
     p {
         font-family: 'roc-grotesk', sans-serif;
         font-weight: 700;
