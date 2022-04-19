@@ -529,15 +529,14 @@ header > div .buono {
 }
 
 .pastahero-img {
-  display: block;
-  position: absolute;
+  display: grid;
   background-image: url("../img/pasta-hero.png");
   background-repeat: no-repeat;
   background-size: contain;
   height: 90vh;
   width: 783px;
-  bottom: -40px;
-  left: 30px;
+  grid-template-columns: 30% 30% auto;
+  margin-left: 30px;
 }
 
 #content {
@@ -546,11 +545,6 @@ header > div .buono {
   grid-template-columns: 60% auto;
   padding: 100px;
   align-items: center;
-}
-@media (min-width: 1024px) {
-  #content {
-    grid-template-columns: 40% auto;
-  }
 }
 #content p {
   font-family: "roc-grotesk", sans-serif;

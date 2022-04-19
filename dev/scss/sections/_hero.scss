@@ -71,13 +71,12 @@
 
 
 .pastahero-img {
-    display: block;
-    position: absolute;
+    display: grid;
     background-image: url("../img/pasta-hero.png");
     background-repeat: no-repeat;
     background-size: contain;
     height: 90vh;
     width: 783px;
-    bottom: -40px;
-    left: 30px;
+    grid-template-columns: 30% 30% auto;
+    margin-left: 30px;
 }
