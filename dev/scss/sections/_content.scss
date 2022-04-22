@@ -1,27 +1,52 @@
 #content {
     background-color: $red;
     display: grid;
-    grid-template-columns: 60% auto;
-    padding: 100px;
+    justify-content: center;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
+    padding: 40px;
     align-items: center;
-
-    p {
-        font-family: 'roc-grotesk', sans-serif;
-        font-weight: 700;
-        font-size: rem-calc(40);
-        line-height: 1.5;
-        color: $white;
-    }
-
-    .content1{
-        padding-bottom: 65px;
-    }
 
     #pasta-content {
         background-image: url("../img/pasta-content.png");
         background-repeat: no-repeat;
         background-size: contain;
-        height: 542px;
-        width: 542px;
+        justify-content: center;
+        width: 100%;
+        height: 681px;
     }
+
+    @include xl {
+        #pasta-content2 {
+            background-image: url("../img/pasta-content2.png");
+            background-repeat: no-repeat;
+            background-size: contain;
+            width: 100%;
+            height: 681px;
+            display: none;
+        }
+
+        grid-template-columns: 50% auto;
+        padding: 80px;
+    }
+
+    #paragraph {
+        font-family: 'roc-grotesk', sans-serif;
+        font-weight: 700;
+        font-size: rem-calc(24);
+        line-height: 1.5;
+        color: $white;
+        margin-left: 30px;
+
+        p {
+            margin: 10px;
+        }
+
+        @include xl {
+            font-size: rem-calc(40);
+        }
+
+    }
+
+
 }

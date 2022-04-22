@@ -497,7 +497,7 @@ header > div .buono {
 
 #hero {
   background-color: #F6D574;
-  height: 100vh;
+  height: 92vh;
   width: 100%;
 }
 #hero #hero-content {
@@ -524,24 +524,47 @@ header > div .buono {
 #content {
   background-color: #C94922;
   display: grid;
-  grid-template-columns: 60% auto;
-  padding: 100px;
+  justify-content: center;
+  grid-template-columns: auto;
+  grid-template-rows: auto auto;
+  padding: 40px;
   align-items: center;
-}
-#content p {
-  font-family: "roc-grotesk", sans-serif;
-  font-weight: 700;
-  font-size: 2.5rem;
-  line-height: 1.5;
-  color: #fff;
-}
-#content .content1 {
-  padding-bottom: 65px;
 }
 #content #pasta-content {
   background-image: url("../img/pasta-content.png");
   background-repeat: no-repeat;
   background-size: contain;
-  height: 542px;
-  width: 542px;
+  justify-content: center;
+  width: 100%;
+  height: 681px;
+}
+@media (min-width: 1440px) {
+  #content {
+    grid-template-columns: 50% auto;
+    padding: 80px;
+  }
+  #content #pasta-content2 {
+    background-image: url("../img/pasta-content2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 681px;
+    display: none;
+  }
+}
+#content #paragraph {
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #fff;
+  margin-left: 30px;
+}
+#content #paragraph p {
+  margin: 10px;
+}
+@media (min-width: 1440px) {
+  #content #paragraph {
+    font-size: 2.5rem;
+  }
 }
