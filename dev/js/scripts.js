@@ -11,9 +11,8 @@ import { gsap } from "gsap";
 const mainTL = gsap.timeline();
 
 mainTL.from(".pastahero-img", {x:-500, duration: 3, ease: "power3.out"}, "heroimg")
-.from("#hero-content", {duration: 3, opacity:0, y:50, delay: 1}, "heroimg+=2")
-.from("#aldente", {x: 800, duration:3, rotation:360, ease: "power3.out"}, "animate")
-.from("#pennesticker", {x:800, duration: 3, rotation:360, ease: "power3.out"}, "animate+=.75")
-.from("#bowtiesticker" , {x:850, duration: 3, rotation: 360, ease: "power3.out"}, "animate+=1.5")
-
+.from("#hero-content", {duration: 2, opacity:0, y:40, delay: .3, ease: "power3.out"}, "heroimg")
+.from("#aldente", {x: 700, duration:3, display: "none", rotation:360, ease: "power3.out"}, "heroimg+=.1")
+.from("#bowtiesticker" , {x:700, duration: 3, display: "none", rotation: 360, ease: "power3.out"}, "heroimg+=.1")
+.from("#pennesticker", {x:700, duration: 3, display: "none", rotation:360, ease: "power3.out"}, "heroimg+=.1")
 ;

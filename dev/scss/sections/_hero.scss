@@ -2,16 +2,18 @@
     background-color: $yellow;
 
     #aldente {
+
         position: absolute;
         background-image: url("../img/aldente.svg");
         background-repeat: no-repeat;
         height: 300px;
         width: 300px;
         top: 75px;
-        left: 760px;
+        left: 820px;
     }
 
     #pennesticker {
+  
         position: absolute;
         background-image: url("../img/pennesticker.svg");
         background-repeat: no-repeat;
@@ -36,8 +38,8 @@
         position: absolute;
         background-image: url("../img/bowtiesticker.svg");
         background-repeat: no-repeat;
-        height: 500px;
-        width: 330px;
+        height: 300px;
+        width: 300px;
         top: 350px;
         left: 600px;
     }
