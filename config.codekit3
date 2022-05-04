@@ -39,6 +39,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/deploy\/img\/bowtie-pasta 2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/bowtie-pasta 2.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/img\/bowtie-pasta.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -54,6 +64,16 @@
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/deploy\/img\/bowtie.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/bowtiesticker 2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/bowtiesticker 2.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -92,6 +112,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/pasta-content2 2.png" : {
+      "ft" : 32768,
+      "iS" : 269807,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/pasta-content2 2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/pasta-content2.png" : {
       "ft" : 32768,
       "iS" : 269807,
@@ -118,6 +151,16 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/penne-pasta 2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/penne-pasta 2.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/img\/penne-pasta.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -133,6 +176,16 @@
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/deploy\/img\/penne.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/pennesticker 2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/pennesticker 2.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
